@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+
+.list-container {
+  display: flex;
+  justify-content: center;
+}
+
+.list{
+  margin: 8px;
+}
